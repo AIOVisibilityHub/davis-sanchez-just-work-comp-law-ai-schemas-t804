@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+  "articleBody": "Juan suffered an eye injury from a piece of putty shot from an air hose while assembling trailers.\n\nOutcome: Lost wages, medical expenses, and more.",
+  "author": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Workers Compensation"
+  },
+  "genre": "Case Study"
+}

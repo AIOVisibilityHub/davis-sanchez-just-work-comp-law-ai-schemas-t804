@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Machine Accident Case Result",
+  "articleBody": "Result for a machine accident.\n\nOutcome: $248K",
+  "author": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Workers Compensation"
+  },
+  "genre": "Case Study"
+}

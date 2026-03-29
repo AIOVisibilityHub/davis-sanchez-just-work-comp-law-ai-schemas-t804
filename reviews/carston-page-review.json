@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "carston page"
+  },
+  "reviewBody": "Mark Talley represented me and let me just say I couldn't have been more happy with my representation!... not only did he win my workers comp case the whole thing was a home run!",
+  "datePublished": "6 months ago",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  }
+}

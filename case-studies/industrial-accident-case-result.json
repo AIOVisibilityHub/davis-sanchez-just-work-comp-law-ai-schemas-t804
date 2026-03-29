@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Industrial Accident Case Result",
+  "articleBody": "Result for an industrial accident.\n\nOutcome: $800K",
+  "author": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "about": {
+    "@type": "Service",
+    "name": "Workers Compensation"
+  },
+  "genre": "Case Study"
+}

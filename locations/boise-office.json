@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Davis & Sanchez (Just Work Comp Law) - Boise Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "4696 W Overland Rd #162",
+    "addressLocality": "Boise",
+    "addressRegion": "ID",
+    "postalCode": "83705"
+  },
+  "telephone": "(208) 252-9000",
+  "url": "http://davis-sanchez.com/"
+}

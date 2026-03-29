@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Nida Taha"
+  },
+  "reviewBody": "Jared represented my father in his workers' compensation case, and we’re so thankful for the great job he did. From the start, Jared was professional, kind, and clearly knew what he was doing. ... Thanks to Jared and Roberto’s hard work, we felt supported the entire time.",
+  "datePublished": "5 months ago",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  }
+}

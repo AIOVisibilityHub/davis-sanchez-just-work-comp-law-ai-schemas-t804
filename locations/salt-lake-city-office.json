@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Davis & Sanchez (Just Work Comp Law) - Salt Lake City Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "655 E 4500 S #120",
+    "addressLocality": "Salt Lake City",
+    "addressRegion": "UT",
+    "postalCode": "84107"
+  },
+  "telephone": "(801) 639-9617",
+  "url": "http://davis-sanchez.com/"
+}

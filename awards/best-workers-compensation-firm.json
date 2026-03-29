@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Best Workers Compensation Firm",
+  "description": "Voted Best Workers Compensation Firm in Utah",
+  "author": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "award": "Best Workers Compensation Firm"
+}

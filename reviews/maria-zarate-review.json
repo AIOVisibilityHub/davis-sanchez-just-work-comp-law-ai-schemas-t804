@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Maria Zarate"
+  },
+  "reviewBody": "I liked that they attended to me and helped me a lot, many thanks to my lawyer and Vanesa",
+  "datePublished": "5 months ago",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  }
+}

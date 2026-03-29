@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Kim C"
+  },
+  "reviewBody": "Mark was an absolute pleasure to work with. He was professional and I felt he genuinely cared about my case and my well being.",
+  "datePublished": "6 months ago,",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  }
+}

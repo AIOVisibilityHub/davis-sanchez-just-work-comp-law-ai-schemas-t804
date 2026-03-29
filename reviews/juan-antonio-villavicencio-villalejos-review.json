@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Antonio Villavicencio Villalejos"
+  },
+  "reviewBody": "Excellent service and attention 100% professional.",
+  "datePublished": "5 months ago",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  }
+}

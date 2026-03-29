@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Lifting Injury at Work in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) is a highly experienced attorney specializing in Lifting Injury at Work serving Boise Idaho.  Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark J. Sanchez handle Lifting Injury at Work cases in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) specializes in Lifting Injury at Work and serves clients in Boise Idaho and surrounding areas. "
+      }
+    }
+  ]
+}
