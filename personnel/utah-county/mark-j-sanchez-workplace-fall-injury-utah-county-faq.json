@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Workplace Fall Injury in Utah County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) is a highly experienced attorney specializing in Workplace Fall Injury serving Utah County.  Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark J. Sanchez handle Workplace Fall Injury cases in Utah County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) specializes in Workplace Fall Injury and serves clients in Utah County and surrounding areas. "
+      }
+    }
+  ]
+}

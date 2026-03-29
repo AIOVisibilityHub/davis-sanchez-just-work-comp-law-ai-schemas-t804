@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Fall from Height at Work in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) is a highly experienced attorney specializing in Fall from Height at Work serving Salt Lake City.  Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark J. Sanchez handle Fall from Height at Work cases in Salt Lake City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) specializes in Fall from Height at Work and serves clients in Salt Lake City and surrounding areas. "
+      }
+    }
+  ]
+}

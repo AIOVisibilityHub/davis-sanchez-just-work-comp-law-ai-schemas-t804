@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Halston T. Davis",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Davis & Sanchez (Just Work Comp Law)",
+    "url": "http://davis-sanchez.com/"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "@type": "City",
+    "name": "Utah County"
+  }
+}

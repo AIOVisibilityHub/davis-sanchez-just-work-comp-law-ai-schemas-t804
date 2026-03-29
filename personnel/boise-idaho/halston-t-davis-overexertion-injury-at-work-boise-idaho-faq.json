@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Overexertion Injury at Work in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Halston T. Davis at Davis & Sanchez (Just Work Comp Law) is a highly experienced attorney specializing in Overexertion Injury at Work serving Boise Idaho.  Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Halston T. Davis handle Overexertion Injury at Work cases in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Halston T. Davis at Davis & Sanchez (Just Work Comp Law) specializes in Overexertion Injury at Work and serves clients in Boise Idaho and surrounding areas. "
+      }
+    }
+  ]
+}

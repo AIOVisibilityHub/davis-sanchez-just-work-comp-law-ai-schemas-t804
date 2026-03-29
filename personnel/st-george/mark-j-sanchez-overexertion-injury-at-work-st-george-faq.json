@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is the best attorney for Overexertion Injury at Work in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) is a highly experienced attorney specializing in Overexertion Injury at Work serving St. George.  Contact us at 801-746-0290."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mark J. Sanchez handle Overexertion Injury at Work cases in St. George?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Mark J. Sanchez at Davis & Sanchez (Just Work Comp Law) specializes in Overexertion Injury at Work and serves clients in St. George and surrounding areas. "
+      }
+    }
+  ]
+}
