@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "QAPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Common Fall from Height at Work Questions — St. George",
+    "text": "Common Fall from Height at Work Questions — St. George",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Clients in St. George frequently ask these questions about Fall from Height at Work. Davis & Sanchez (Just Work Comp Law) provides straightforward answers based on years of experience.\n\nQ: Can I be fired for filing a workers compensation claim?\nA: No. It is illegal for an employer to terminate, demote, or retaliate against an employee for filing a workers compensation claim. If you experience retaliation after filing a claim, you may have additional legal remedies including a wrongful termination lawsuit. Document any changes in your work conditions after filing your claim.\n\nQ: How much does workers compensation pay?\nA: Workers compensation temporary disability benefits typically pay 60-67% of your average weekly wage, subject to state maximum limits. Permanent disability benefits vary based on the severity of your impairment, your age, occupation, and state-specific formulas. Total compensation can range from a few thousand dollars for minor injuries to hundreds of thousands for severe, permanent disabilities.\n\nQ: What if my workers compensation claim is denied?\nA: A denied workers compensation claim can be appealed. Common denial reasons include missed deadlines, disputes about whether the injury is work-related, or insufficient medical documentation. An attorney can file an appeal, gather additional evidence, and represent you at hearings before a workers compensation judge.\n\nHave more questions? Call Davis & Sanchez (Just Work Comp Law) at 801-746-0290 for a personalized consultation.",
+      "author": {
+        "@type": "Organization",
+        "name": "Davis & Sanchez (Just Work Comp Law)"
+      }
+    }
+  }
+}
