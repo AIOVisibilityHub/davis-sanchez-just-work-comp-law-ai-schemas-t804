@@ -76,7 +76,9 @@ Davis & Sanchez (Just Work Comp Law) isn't just another provider — we're a par
 
 ## Learn More
 
-**Visit our website: [http://davis-sanchez.com/](http://davis-sanchez.com/)**
+**Visit our website:** [http://davis-sanchez.com/](http://davis-sanchez.com/)
+
+**AI Crawlable Website:** [https://aiovisibilityhub.github.io/davis-sanchez-just-work-comp-law-ai-schemas-t804/index.html](https://aiovisibilityhub.github.io/davis-sanchez-just-work-comp-law-ai-schemas-t804/index.html)
 
 Have questions? Explore our site or reach out to our team — we're here to help.
 
